@@ -4,9 +4,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,python,html,css,js,postgres,r" />
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bash" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bash"/>
 </p>
-\
+
 
 
 
