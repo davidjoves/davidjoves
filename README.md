@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,python,html,css,js,postgres,r&perline=5" />
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bash"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,python,html,css,js,postgres,r,git,gitlab,github,visualstudio,vscode,eclipse&perline=5" />
+
 </p>
 
 
