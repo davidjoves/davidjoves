@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Welcome to my GitHub! My name is David Joves and I am a 3rd year student attending UC Irvine. I am currently in the search for a summer 2024 internship! Feel free to contact me!
+  Welcome to my GitHub! My name is David Joves and I am a 3rd year student attending UC Irvine. I am currently in the search for an internship! Feel free to contact me!
 </p>
 
 <p align="center">
