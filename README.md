@@ -1,9 +1,5 @@
 ### Hi there! I'm David Joves
 <div style="text-align: center;">
-    <img src="images/DavidChibPose1.png" alt="DavidChibPose1" width="100"/>
-</div>
-### Hi there! I'm David Joves
-<div style="text-align: center;">
     <img src="/images/DavidChibPose1.png" alt="DavidChibPose1" width="100"/>
 </div>
 
