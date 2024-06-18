@@ -41,3 +41,8 @@
 ![jetb](https://img.shields.io/badge/JetBrains-%23000000?style=flat-square&logo=jetbrains&logoSize=auto)
 
 
+### Most Frequently Used 
+![python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=%23fed844&logoSize=auto&color=%2300599c)
+![react](https://img.shields.io/badge/React-darkslategray?style=flat-square&logo=react&logoSize=auto)
+![figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&logoSize=auto)
+![tf](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white&logoSize=auto)
