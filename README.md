@@ -6,7 +6,7 @@
 ### About me 🏃🏽
 - 🙌🏽 Aspiring Software Engineer with an interest in Algorithms and Machine Learning 
 - 🏫 AS in CS and Mathematics @ SDCCD '23 | BS in CS @ UCI 
-- ⚙️ Currently developing my personal website! Come check it out! <a href="https://davidjoves.com/" target="_blank"> My Website </a>
+- ⚙️ Currently exploring the <a href="https://www.kaggle.com/competitions/titanic" target="_blank"> Titanic - Machine Learning from Disaster dataset! </a> 
 - 📱 Come check out my <a href="https://www.linkedin.com/in/david-joves/" target="_blank"> LinkedIn </a>
 
 ## My Tech Stack 🖥️
