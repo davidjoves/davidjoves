@@ -34,14 +34,14 @@
 ![matplot](https://img.shields.io/badge/Matplotlib-%230a4971?style=flat-square&logo=matlab&logoColor=white&logoSize=auto)
 
 
-### Developer Tools / Frameworks
+#### Developer Tools / Frameworks
 ![postgre](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white&logoSize=auto)
 ![git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=white&logoSize=auto)
 ![vscode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoSize=auto)
 ![jetb](https://img.shields.io/badge/JetBrains-%23000000?style=flat-square&logo=jetbrains&logoSize=auto)
 
 
-### Most Frequently Used 
+#### Most Frequently Used 
 ![python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=%23fed844&logoSize=auto&color=%2300599c)
 ![react](https://img.shields.io/badge/React-darkslategray?style=flat-square&logo=react&logoSize=auto)
 ![figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&logoSize=auto)
